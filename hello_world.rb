@@ -1,3 +1,1 @@
-#program will print to screen
-
-puts"Hello World!".reverse
+puts "Siara".upcase
