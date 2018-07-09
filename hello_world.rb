@@ -1,1 +1,1 @@
-puts "Siara".upcase
+puts "Siara".capitalize
