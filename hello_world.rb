@@ -1,3 +1,3 @@
 #program will print to screen
 
-puts "Hello World!".reverse
+print "Hello World!".reverse
